@@ -1,10 +1,6 @@
 ## Hello World 👋  👋🏿  👋🏻  👋🏾  👋🏼  👋🏽 
 
-![Urbane Security's Logo](https://urbanesecurity.com/img/logo-dark.png)
-
-### 🧐 Who is Urbane Security?
-
-Urbane Security is a premier information security consultancy empowering the Fortune 500, small and medium enterprise, and high-tech startups. Our expert, modern, and results-driven solutions focus on Innovative Defense, Sophisticated Offense, and Compliance Refined. More info can be found about the Urbane team at https://urbanesecurity.com.
+![Urbane Security's Profile Image](https://urbanesecurity.com/img/github-profile.png)
 
 ### 📄 How can I join the Urbane team?
 
